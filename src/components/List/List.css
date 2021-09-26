@@ -1,0 +1,14 @@
+.list-count{
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-right: 50px;
+    margin-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    background-color: rgb(230, 225, 213);
+    border-radius: 10px;
+    box-shadow: 5px 10px 40px #969490;
+}
+.nobel img{
+    height: 200px;
+}
